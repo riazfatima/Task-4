@@ -56,7 +56,7 @@ My script confirms a highly balanced distribution of sentiment in the training d
 
 | Model Performance Comparison Matrix (Confusion Matrices) | ROC Curve Comparison (Benchmarking Metrics) |
 | --- | --- |
-| ![Confusion Matrices](Model Performance Comparison Matrix.png) | ![ROC Curves](https://github.com/riazfatima/Task-4/blob/main/ROC%20curve%20comparison.png) |
+| ![Confusion Matrices](https://github.com/riazfatima/Task-4/blob/main/Model%20Performance%20Comparison%20Matrix.png?raw=true) | ![ROC Curves](https://github.com/riazfatima/Task-4/blob/main/ROC%20curve%20comparison.png) |
 
 *Side-by-side matrices demonstrate exceptional accuracy for both models.* SVM correctly predicted **1,869** examples. NB slightly behind, with **1,862** examples.
 
